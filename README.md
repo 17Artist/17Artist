@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @17Artist
-- 👀 I’m interested in Java | C# 
+- 👀 I’m interested in Java and C# 
 - 🌱 I’m currently learning Python
 - ✨ I’m from China. I majored in medicine
 
